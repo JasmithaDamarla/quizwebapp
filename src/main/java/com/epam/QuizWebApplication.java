@@ -16,6 +16,7 @@ import com.epam.config.RsaKeyProperties;
 import com.epam.entities.Role;
 import com.epam.entities.User;
 import com.epam.repository.UserRepository;
+
 import io.swagger.v3.oas.annotations.OpenAPIDefinition;
 
 @SpringBootApplication
